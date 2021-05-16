@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+body {
+	
+}
+.primary-background {
+background:#ff1744 !important;	
+	
+}
+
+
+
+body{
+background:url(img/background.jpg);
+background-size:cover;
+background-attachment: fixed;
+
+}
+
+
+
+  
+
+
+	
